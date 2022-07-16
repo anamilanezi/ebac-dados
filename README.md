@@ -4,10 +4,6 @@
 Repositório criado para organizar os conteúdos e exercícios durante o curso profissionalizante de Análise de Dados realizado na EBAC - Escola Profissionalizante de Artes Criativas, com início em Julho/2022.
 
 ## 🐍 [Python](/M01-M09-Python/)
-<<<<<<< HEAD
-=======
-***
->>>>>>> f8bd2b650712293f6c75d071bcdae10f5ff7b5c8
 
 1. ✅ Variáveis e tipos de dados
 2. ✅ Estruturas de dados
@@ -20,10 +16,6 @@ Repositório criado para organizar os conteúdos e exercícios durante o curso p
 9. ⏳ Scripting
 
 ## 🎲 Análise de Dados 
-<<<<<<< HEAD
-=======
-***
->>>>>>> f8bd2b650712293f6c75d071bcdae10f5ff7b5c8
 10. ⏳ Coleta de dados I
 11. ⏳ Coleta de dados II
 12. ⏳ Data wrangling I
@@ -35,19 +27,11 @@ Repositório criado para organizar os conteúdos e exercícios durante o curso p
 
 
 ## 😺 Controle de Versão 
-<<<<<<< HEAD
-=======
-***
->>>>>>> f8bd2b650712293f6c75d071bcdae10f5ff7b5c8
 18. ⏳ Controle de versão I
 19. ⏳ Controle de versão II
 20. ⏳ Controle de versão III
 
 ## 📊 Analise de Dados Avançada
-<<<<<<< HEAD
-=======
-***
->>>>>>> f8bd2b650712293f6c75d071bcdae10f5ff7b5c8
 21. ⏳ Fundamentos de matemática
 22. ⏳ Fundamentos e estatística
 23. ⏳ Aprendizado de Máquina - Fundamentos
@@ -57,10 +41,6 @@ Repositório criado para organizar os conteúdos e exercícios durante o curso p
 27. ⏳ Séries temporais
 
 ## 🛢 SQL 
-<<<<<<< HEAD
-=======
-***
->>>>>>> f8bd2b650712293f6c75d071bcdae10f5ff7b5c8
 28. ⏳ Base de dados & Linguagem SQL
 29. ⏳ Trabalhando com tabelas
 30. ⏳ Selecionando e ordenando
@@ -71,18 +51,10 @@ Repositório criado para organizar os conteúdos e exercícios durante o curso p
 35. ⏳ 2º Projeto 
 
 ## 💼 Inteligência de Negócios 
-<<<<<<< HEAD
-=======
-***
->>>>>>> f8bd2b650712293f6c75d071bcdae10f5ff7b5c8
 36. ⏳ Visualização interativa de dados
 37. ⏳ 3º Projeto - Dashboard de dados
 
 ## ☁ Computação em Nuvem e Big Data 
-<<<<<<< HEAD
-=======
-***
->>>>>>> f8bd2b650712293f6c75d071bcdae10f5ff7b5c8
 38. ⏳ Computação em nuvem I
 39. ⏳ Computação em nuvem II
 40. ⏳ Computação em nuvem III
