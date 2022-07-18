@@ -31,7 +31,7 @@ Repositório criado para organizar os conteúdos e exercícios durante o curso p
 19. ⏳ Controle de versão II
 20. ⏳ Controle de versão III
 
-## 📊 Analise de Dados Avançada
+## 📊 Análise de Dados Avançada
 21. ⏳ Fundamentos de matemática
 22. ⏳ Fundamentos e estatística
 23. ⏳ Aprendizado de Máquina - Fundamentos
