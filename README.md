@@ -9,8 +9,8 @@ Repositório criado para organizar os conteúdos e exercícios durante o curso p
 2. ✅ Estruturas de dados
 3. ✅ Fluxo condicional e repetição
 4. ✅ Arquivos e funções
-5. ⌛ Programação funcional
-6. ⌛ Programação orientada a objetos
+5. ✅ Programação funcional
+6. ✅ Programação orientada a objetos
 7. ⏳ Módulos e pacotes
 8. ⏳ Tratamento de erros
 9. ⏳ Scripting
