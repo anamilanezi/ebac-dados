@@ -1,7 +1,6 @@
 import os
 import time
 import json
-import csv
 from random import random
 from datetime import datetime
 from sys import argv
