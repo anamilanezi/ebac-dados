@@ -15,7 +15,8 @@ Repositório criado para organizar os conteúdos e exercícios durante o curso p
 8. ✅ Tratamento de erros
 9. ⌛ Scripting
 
-## 🎲 Análise de Dados 
+## 🎲 [Análise de Dados](/10-17-analise-de-dados)
+
 10. ⏳ Coleta de dados I
 11. ⏳ Coleta de dados II
 12. ⏳ Data wrangling I
