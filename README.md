@@ -3,7 +3,7 @@
 
 Repositório criado para organizar os conteúdos e exercícios durante o curso profissionalizante de Análise de Dados realizado na EBAC - Escola Profissionalizante de Artes Criativas, com início em Julho/2022.
 
-## 🐍 [Python](/01-09-python/)
+## 🐍 Python
 
 1. ✅ Variáveis e tipos de dados
 2. ✅ Estruturas de dados
@@ -13,11 +13,11 @@ Repositório criado para organizar os conteúdos e exercícios durante o curso p
 6. ✅ Programação orientada a objetos
 7. ✅ Módulos e pacotes
 8. ✅ Tratamento de erros
-9. ⌛ Scripting
+9. ✅ Scripting
 
-## 🎲 [Análise de Dados](/10-17-analise-de-dados)
+## 🎲 Análise de Dados
 
-10. ⏳ Coleta de dados I
+10. ⌛ Coleta de dados I
 11. ⏳ Coleta de dados II
 12. ⏳ Data wrangling I
 13. ⏳ Data wrangling II
