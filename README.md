@@ -17,10 +17,10 @@ Repositório criado para organizar os conteúdos e exercícios durante o curso p
 
 ## 🎲 Análise de Dados
 
-10. ⌛ Coleta de dados I
-11. ⏳ Coleta de dados II
-12. ⏳ Data wrangling I
-13. ⏳ Data wrangling II
+10. ✅ Coleta de dados I
+11. ✅ Coleta de dados II
+12. ✅ Data wrangling I
+13. ⌛ Data wrangling II
 14. ⏳ Visualização de dados I
 15. ⏳ Visualização de dados II
 16. ⏳ 1º Projeto: Análise Exploratória de Dados em Python I
