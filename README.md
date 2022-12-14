@@ -22,9 +22,9 @@ Repositório criado para organizar os conteúdos e exercícios durante o curso p
 12. [📝](aulas/m12-data-wrangling-I.ipynb)[✅](exercicios/em12-data-wrangling-I.ipynb) Data wrangling I
 13. [📝](aulas/m13-data-wrangling-II.ipynb)[✅](exercicios/em13-data-wrangling-II.ipynb) Data wrangling II
 14. [📝](aulas/m14-visualizacao-de-dados-I.ipynb)[✅](exercicios/em14-visualizacao-de-dados-I.ipynb) Visualização de dados I
-15. [📝](aulas/m15-visualizacao-de-dados-II.ipynb)[⌛](exercicios/em15-visualizacao-de-dados-II.ipynb) Visualização de dados II
-16. 📝⏳ 1º Projeto: Análise Exploratória de Dados em Python I
-17. 📝⏳ 1º Projeto: Análise Exploratória de Dados em Python II
+15. [📝](aulas/m15-visualizacao-de-dados-II.ipynb)[✅](exercicios/em15-visualizacao-de-dados-II.ipynb) Visualização de dados II
+16. [📝](projetos/em16-analise-exploratoria-python.ipynb)[✅](projetos/m16-analise-exploratoria-python.ipynb) 1º Projeto: Análise Exploratória de Dados em Python I
+17. [📝](projetos/em17-analise-exploratoria-python-II.ipynb)⏳ 1º Projeto: Análise Exploratória de Dados em Python II
 
 
 ## 😺 Controle de Versão 
