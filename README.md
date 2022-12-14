@@ -1,7 +1,11 @@
 
-# Analista de Dados - EBAC
+<h1 align=center>Analista de Dados - EBAC</h1>
 
-Repositório criado para organizar os conteúdos e exercícios durante o curso profissionalizante de Análise de Dados realizado na EBAC - Escola Profissionalizante de Artes Criativas, com início em Julho/2022.
+<p align=center>Repositório criado para organizar os conteúdos e exercícios durante o curso profissionalizante de Análise de Dados realizado na EBAC - Escola Profissionalizante de Artes Criativas, com início em Julho/2022.</p>
+<p align=center>Legenda: 📝 Notebook da aula
+⏳ Exercício não resolvido
+✅ Exercício resolvido e aprovado</p>
+
 
 ## 🐍 Python
 
