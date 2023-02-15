@@ -28,12 +28,12 @@
 14. [📝](aulas/m14-visualizacao-de-dados-I.ipynb)[✅](exercicios/em14-visualizacao-de-dados-I.ipynb) Visualização de dados I
 15. [📝](aulas/m15-visualizacao-de-dados-II.ipynb)[✅](exercicios/em15-visualizacao-de-dados-II.ipynb) Visualização de dados II
 16. [📝](projetos/m16-analise-exploratoria-python.ipynb)[✅](projetos/em16-analise-exploratoria-python.ipynb) 1º Projeto: Análise Exploratória de Dados em Python I
-17. [📝](projetos/m17-analise-exploratoria-python-II.ipynb)[✅](projetos/em17-analise-exploratoria-python-II.ipynb )1º Projeto: Análise Exploratória de Dados em Python II
+17. [📝](projetos/m17-analise-exploratoria-python-II.ipynb)[✅](projetos/em17-analise-exploratoria-python-II.ipynb ) 1º Projeto: Análise Exploratória de Dados em Python II
 
 
 ## 😺 Controle de Versão 
-18. [📝](aulas/m18-controle-de-versao-I.ipynb)✅(exercicios/em18-controle-de-versao-I.ipynb) Controle de versão I
-19. [📝](aulas/m19-controle-de-versao-II.ipynb)✅(exercicios/em19-controle-de-versao-II.ipynb) Controle de versão II
+18. [📝](aulas/m18-controle-de-versao-I.ipynb)[✅](exercicios/em18-controle-de-versao-I.ipynb) Controle de versão I
+19. [📝](aulas/m19-controle-de-versao-II.ipynb)[✅](exercicios/em19-controle-de-versao-II.ipynb) Controle de versão II
 20. [📝](aulas/m20-controle-de-versao-III.ipynb)⏳ Controle de versão III
 
 ## 📊 Análise de Dados Avançada
